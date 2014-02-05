@@ -1,3 +1,6 @@
+# THIS REPO HAS MOVED TO NREL. PLEASE VISIT https://github.com/NREL/OpenStudio-analysis-spreadsheet
+
+
 # Analysis Example
 
 This example uses OpenStudio's Analysis & AWS gem to setup and run simulations on an Amazon OpenStudio Cluster.
